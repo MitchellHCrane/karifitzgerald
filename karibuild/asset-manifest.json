@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4707c00d.chunk.css",
+    "main.js": "/static/js/main.49d25f8b.chunk.js",
+    "main.js.map": "/static/js/main.49d25f8b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7330a186.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7330a186.js.map",
+    "static/js/2.94022e24.chunk.js": "/static/js/2.94022e24.chunk.js",
+    "static/js/2.94022e24.chunk.js.map": "/static/js/2.94022e24.chunk.js.map",
+    "static/js/3.2e4577b4.chunk.js": "/static/js/3.2e4577b4.chunk.js",
+    "static/js/3.2e4577b4.chunk.js.map": "/static/js/3.2e4577b4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4707c00d.chunk.css.map": "/static/css/main.4707c00d.chunk.css.map",
+    "static/js/2.94022e24.chunk.js.LICENSE.txt": "/static/js/2.94022e24.chunk.js.LICENSE.txt",
+    "static/media/application.d99af350.svg": "/static/media/application.d99af350.svg",
+    "static/media/arrow-right.69ffdcb6.svg": "/static/media/arrow-right.69ffdcb6.svg",
+    "static/media/header.css": "/static/media/fcLogo.6c3d44f7.png",
+    "static/media/getStarted.css": "/static/media/getStartedBackground.894df7b0.png",
+    "static/media/loan-education.fff298a4.svg": "/static/media/loan-education.fff298a4.svg",
+    "static/media/peaceHand.58e94816.svg": "/static/media/peaceHand.58e94816.svg",
+    "static/media/upload-documents.5c29d77b.svg": "/static/media/upload-documents.5c29d77b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7330a186.js",
+    "static/js/2.94022e24.chunk.js",
+    "static/css/main.4707c00d.chunk.css",
+    "static/js/main.49d25f8b.chunk.js"
+  ]
+}
