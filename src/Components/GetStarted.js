@@ -36,13 +36,6 @@ function GetStarted() {
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
-        <GetStartedItem
-          title="Get Swag"
-          description="Thank you for choosing First Class Home Mortgage to be a part of your home buying experience. Fill out a simple form and get swag!"
-          url="https://elevatepromo.com/fchm_thankyou/"
-          iconName="peaceHand"
-          btnText="Get Swag"
-        />
       </div>
     </div>
   );

@@ -7,9 +7,7 @@
   padding: 64px 0;
 }
 
-.particle-bg {
-  display: none;
-}
+
 
 .profileName,
 .NMLS {
@@ -37,6 +35,19 @@
 }
 
 @media (min-width: 768px) {
+  .profile-background {
+    background-image: url(../images/homeBackground.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 8%;
+    margin: 0 auto;
+  }
+
+  .profileP {
+    color: #575757;
+  }
+  
   .profile-div {
     padding: 8%;
     margin: 0 auto;
@@ -44,10 +55,6 @@
 
   .profileName {
     margin-top: 0px;
-  }
-
-  .particle-bg {
-    display: block;
   }
 
   .profile-grid {
