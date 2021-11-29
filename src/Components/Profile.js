@@ -17,14 +17,14 @@ function Profile() {
       <div className="profile-grid">
         <div className="columnPic">
           <img
-            className="troyProfilePic"
-            src="../images/KariFitz.jpeg"
+            className="headProfilePic"
+            src="../images/kariFitz.jpeg"
             alt="Kari Fitzgerald Senior Loan Officer"
           />
         </div>
         <div>
           <h1 className="profileName">Kari Fitzgerald</h1>
-          <h2 className="NMLS">Mortgage Banker (NMLS #247303)</h2>
+          <h2 className="NMLS">Senior Loan Officer (NMLS #247303)</h2>
           <p className="profileP">
             Hello! I’m Kari, I look forward to helping you along your home
             buying experience. I’ve provided a few useful links to get you

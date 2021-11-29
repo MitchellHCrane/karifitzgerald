@@ -32,7 +32,7 @@ function GetStarted() {
         <GetStartedItem
           title="Upload Documents"
           description="Safely and securely send documents through DocumentGuardian."
-          url="https://documentguardian.com/filedrop/loans@troywarner.com"
+          url="https://documentguardian.com/filedrop/kari@firstclasshomemortgage.com"
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />

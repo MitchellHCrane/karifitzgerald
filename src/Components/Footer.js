@@ -8,12 +8,11 @@ function Footer() {
         <div className="footerGridItem">
           <h3 className="footerH3">Contact</h3>
           <p className="footerP">
-            Phone: <a href="tel:385-999-1871">(385)-999-1871</a>
+            Phone: <a href="tel:801-450-5171">(801)-450-5171</a>
           </p>
           <p className="footerP">Fax: (801)-303-7083</p>
           <p className="footerP">
-            Email:{" "}
-            <a href="mailto:kari@utahlender.com">kari@utahlender.com</a>
+            Email: <a href="mailto:kari@utahlender.com">kari@utahlender.com</a>
           </p>
         </div>
         <div className="footerGridItem">
