@@ -36,6 +36,14 @@ function GetStarted() {
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
+
+        <GetStartedItem
+          title="Leave a Review"
+          description="Thank you for choosing First Class Home Mortgage. It’s our priority to continue providing quality service to our customers. Tell us about your experience."
+          url="GOOGLELINKHERE"
+          iconName="reviewIcon"
+          btnText="Write Review"
+        />
       </div>
     </div>
   );
